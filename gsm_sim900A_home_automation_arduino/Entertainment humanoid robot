@@ -1,0 +1,2 @@
+-- By adding google assistant integation and searvo moters, a simple humanoid robot can be done, using the same gsm integration technique
+-- Here we are using the assistant't voice to message sending feature and that message will trigger the robot hand or any movement
